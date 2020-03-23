@@ -1,3 +1,9 @@
+libgbinder (1.1.0+0ubports1) xenial; urgency=medium
+
+  * Import to UBports
+
+ -- Nikita Ukhrenkov <thekit@disroot.org>  Mon, 21 Dec 2020 23:23:37 +0200
+
 libgbinder (1.1.0) unstable; urgency=low
 
   * Made RPC protocol configurable per binder device
