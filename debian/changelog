@@ -1,3 +1,9 @@
+libgbinder (1.0.37+0ubports1) xenial; urgency=medium
+
+  * Import to UBports
+
+ -- Nikita Ukhrenkov <thekit@disroot.org>  Mon, 23 Mar 2020 21:04:45 +0100
+
 libgbinder (1.0.37) unstable; urgency=low
 
   * Allow side-by-side linking with libglibutil
