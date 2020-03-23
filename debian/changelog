@@ -1,3 +1,9 @@
+libgbinder (1.1.6+0ubports1) xenial; urgency=medium
+
+  * Import v1.1.6 to ubports
+
+ -- Marius Gripsgard <marius@ubports.com>  Fri, 05 Mar 2021 01:02:27 +0100
+
 libgbinder (1.1.6) unstable; urgency=low
 
   * Implemented support for passing object over the bridge
