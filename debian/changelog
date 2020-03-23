@@ -1,3 +1,5 @@
+
+
 libgbinder (1.0.47) unstable; urgency=low
 
   * Make library executable on RPM based systems
@@ -61,6 +63,12 @@ libgbinder (1.0.38) unstable; urgency=low
   * Allow to configure log level via environment
 
  -- Slava Monich <slava.monich@jolla.com>  Thu, 02 Apr 2020 00:12:01 +0300
+
+libgbinder (1.0.37+0ubports1) xenial; urgency=medium
+
+  * Import to UBports
+
+ -- Nikita Ukhrenkov <thekit@disroot.org>  Mon, 23 Mar 2020 21:04:45 +0100
 
 libgbinder (1.0.37) unstable; urgency=low
 
