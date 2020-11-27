@@ -1,4 +1,8 @@
+libgbinder (1.0.47+0ubports1) xenial; urgency=low
 
+  * Rebase on upstream
+
+ -- Alfred Neumayer <dev.beidl@gmail.com>  Fri, 27 Nov 2020 23:15:54 +0100
 
 libgbinder (1.0.47) unstable; urgency=low
 
