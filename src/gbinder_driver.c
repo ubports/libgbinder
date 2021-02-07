@@ -785,7 +785,7 @@ gbinder_driver_poll(
         n++;
     }
 
-    err = poll(fds, n, -1);
+    err = poll(fds, n, 10000); // 10 seconds timeout
     if (err >= 0) {
         if (pipefd) {
             pipefd->revents = fds[1].revents;
